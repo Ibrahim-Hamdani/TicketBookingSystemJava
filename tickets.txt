@@ -1,0 +1,12 @@
+VIP 
+150.00
+40
+Regular 
+80.00
+120
+Balcony 
+100.00
+75
+General Admission 
+50.00
+200
